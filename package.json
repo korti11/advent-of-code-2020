@@ -1,0 +1,22 @@
+{
+  "name": "advent-of-code-2020",
+  "version": "0.0.1",
+  "description": "Advent of Code 2020",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/korti11/advent-of-code-2020.git"
+  },
+  "keywords": [
+    "advent-of-code"
+  ],
+  "author": "Korti",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/korti11/advent-of-code-2020/issues"
+  },
+  "homepage": "https://github.com/korti11/advent-of-code-2020#readme"
+}
