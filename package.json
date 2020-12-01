@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/korti11/advent-of-code-2020/issues"
   },
-  "homepage": "https://github.com/korti11/advent-of-code-2020#readme"
+  "homepage": "https://github.com/korti11/advent-of-code-2020#readme",
+  "devDependencies": {
+    "eslint": "^7.14.0"
+  }
 }
