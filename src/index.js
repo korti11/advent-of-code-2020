@@ -5,7 +5,13 @@
 // day1.execute(2);
 
 // Day 2
-const { day2 } = require('./day2');
+// const { day2 } = require('./day2');
 
-day2(1);
-day2(2);
+// day2(1);
+// day2(2);
+
+// Day 3
+const { day3 } = require('./day3');
+
+day3(1);
+day3(2);
