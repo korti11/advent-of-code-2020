@@ -16,7 +16,12 @@
 // day3(1);
 // day3(2);
 
-const { day4 } = require('./day4');
+// const { day4 } = require('./day4');
 
-day4(1);
-day4(2);
+// day4(1);
+// day4(2);
+
+const { day5 } = require('./day5');
+
+day5(1);
+day5(2);
