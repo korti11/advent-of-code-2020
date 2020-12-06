@@ -5,7 +5,7 @@ function loadData(day, level) {
 }
 
 function writeData(day, level, data) {
-    fs.writeFileSync(`data/day${day}-${level}-solution.txt`, data, { encoding: 'utf-8' });
+    fs.writeFileSync(`data/day${day}-${level}-solution.txt`, JSON.stringify(data), { encoding: 'utf-8' });
 }
 
 exports.loadData = loadData;
