@@ -24,4 +24,4 @@ function execute(level) {
     }
 }
 
-exports.day5 = execute;
+exports.day = execute;
